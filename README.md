@@ -46,6 +46,3 @@ Untuk cara instalasi dan konfigurasi caranya sangat mudah
 5. Ubah juga konfigurasi database di file `config.php` 
 6. Untuk login kalian bisa register terlebih dahulu atau menggunakan username = `admin` dan password `admin`
 
-### Tentang Saya
-
-Fakhrul Fanani Nugroho siswa Kelas 12 Jurusan Teknik Komputer Informatika di SMK Negeri 1 Wanareja. https://www.instagram.com/nugrohospace/
